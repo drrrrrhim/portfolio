@@ -13,9 +13,11 @@ header{
     background: linear-gradient(lightblue,rgb(175, 162, 162));
     padding: 15px;
     border-radius: 10px;
-    margin:100px
+    
 }
-
+il{
+    margin:15px
+}
 img{
     width: 250px; height: 250px;
 }
